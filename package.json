@@ -18,8 +18,12 @@
   ],
   "author": "Juan Sebastian Ossa",
   "license": "ISC",
+  
   "bugs": {
     "url": "https://github.com/jsoplay3/npmprueba/issues"
   },
-  "homepage": "https://github.com/jsoplay3/npmprueba#readme"
+  "homepage": "https://github.com/jsoplay3/npmprueba#readme",
+  "scripts": {
+    "test": "node test.js"
+  }
 }
