@@ -1,0 +1,25 @@
+{
+  "name": "npmprueba",
+  "version": "1.0.0",
+  "description": "Paquete NPM d eprueba para sincronizar a otros repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsoplay3/npmprueba.git"
+  },
+  "keywords": [
+    "npm",
+    "prueba",
+    "sebas",
+    "jsoplay3"
+  ],
+  "author": "Juan Sebastian Ossa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsoplay3/npmprueba/issues"
+  },
+  "homepage": "https://github.com/jsoplay3/npmprueba#readme"
+}
